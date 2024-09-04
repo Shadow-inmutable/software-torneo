@@ -1,0 +1,39 @@
+Docuementacion de proceso creacion de diagramas
+Cuál es el dominio o área del problema que estás tratando de modelar (por ejemplo, sistema de gestión de inventario, sistema de reservas de vuelos, etc.)?
+¿Cuáles son los actores o entidades principales involucradas en el sistema (por ejemplo, usuarios, productos, órdenes, etc.)?
+¿Cuáles son las relaciones entre estas entidades (por ejemplo, un usuario puede tener varias órdenes, una orden está relacionada con un producto, etc.)?
+¿Hay algún requisito o restricción específica que deba ser considerada al diseñar el diagrama de clases?
+
+
+Historia de Usuario:
+Como organizador del evento de un torneo de fútbol, quiero tener acceso a una plataforma sencilla y centralizada que me permita gestionar el registro de equipos y jugadores, consultar el calendario de partidos, actualizar y visualizar resultados en tiempo real, mantener la clasificación actualizada, y ofrecer información relevante del torneo a los participantes y seguidores, para asegurar que el torneo se desarrolle de manera eficiente, ofreciendo una experiencia organizada y fluida para todos los involucrados.
+
+Criterios de Aceptación:
+
+Registro de Equipos y Jugadores:
+
+Los equipos pueden inscribirse fácilmente en la plataforma, completando campos obligatorios (nombre del equipo, jugadores, etc.).
+La plataforma debe permitir la edición de la información hasta el cierre del registro.
+
+Calendario de Partidos y Resultados:
+
+La plataforma mostrará un calendario claro con fechas, horarios y sedes de los partidos.
+Los resultados podrán ser actualizados en tiempo real por el organizador o por un responsable designado.
+
+Clasificación y Estadísticas:
+
+Se generará automáticamente una tabla de posiciones basada en los resultados de los partidos.
+Las estadísticas individuales y colectivas se actualizarán en tiempo real (goles, tarjetas, asistencias, etc.).
+
+Noticias y Anuncios:
+
+Los organizadores podrán publicar noticias, cambios en el calendario y anuncios importantes.
+Los participantes recibirán notificaciones automáticas cuando se publique nueva información relevante.
+
+Galería y Momentos Destacados:
+
+La plataforma incluirá una galería donde se puedan subir fotos y videos de los partidos y eventos del torneo.
+Los usuarios podrán compartir momentos destacados en redes sociales.
+Contacto y Soporte:
+
+La sección de contacto debe ofrecer opciones rápidas para recibir asistencia en caso de dudas o problemas técnicos.
